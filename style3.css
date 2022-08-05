@@ -1,0 +1,33 @@
+*{
+}
+#pii{
+    padding: 4px 24px;
+    color: rgb(24, 24, 184);
+    background-color: darkgray;
+    border-radius: 3px;
+    border: none;
+    cursor: pointer;
+}
+#pii:hover{
+   background-color: rgb(212, 219, 213); 
+   border: 1px solid red;
+}
+body{
+    background: url(./pexels-guillaume-meurice-1591447.jpg) no-repeat center fixed;
+    background-size: cover;
+    background-color: gray;
+}
+h1,form{
+    color: rgb(221, 218, 231);
+}
+.in{
+    margin-left: 100px;
+}
+#pio{
+    justify-content: center;
+    margin: 50px  auto;
+}
+.im{
+    padding: 40px;
+}
+
